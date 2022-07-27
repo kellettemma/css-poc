@@ -13,7 +13,7 @@
 
 # production
 /build
-# /dist
+/dist
 .history
 
 # misc
