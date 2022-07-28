@@ -1,5 +1,5 @@
 {
-  "name": "@joseph-eccles/css-poc",
+  "name": "@mc-made/css",
   "version": "1.2.1",
   "description": "CSS for Made Framework Core Components",
   "owner": "Made",
@@ -34,8 +34,9 @@
     "postcss-import": "^14.0.2",
     "standard-version": "^9.3.2",
     "stylelint": "^13.13.1",
-    "stylelint-config-standard": "^22.0.0",
-    "gulp-cli": "^2.3.0",
+    "stylelint-config-standard": "^22.0.0"
+  },
+  "dependencies": {
     "stylelint-order": "^5.0.0",
     "stylelint-selector-bem-pattern": "^2.1.1"
   }
